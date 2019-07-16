@@ -1,0 +1,104 @@
+.button {
+    border: 0px;
+    background-color: #e7e7e7;
+    border-radius: 5px;
+    transition: all 0.2s linear;
+    padding: 10px 27px;
+    color: black;
+    font-family: Avenir Next;
+    overflow: hidden;
+    position: relative;
+    font-size: 15px;
+}
+
+.button:hover {
+    border-radius: 10px;
+    background-color: #008CBA;
+    color: white;
+    
+}
+
+.button:active {background-color: #009CBA; color: white; border-radius: 10px;}
+
+.locked {
+    border: 0px;
+    background-color: #303030;
+    border-radius: 5px;
+    padding: 10px 27px;
+    color: rgb(255, 255, 255);
+    font-family: Avenir Next;
+    overflow: hidden;
+    position: relative;
+}
+
+.locked:hover {
+    background-color: #220000;
+}
+
+hr {
+    border: 1px solid rgb(95, 95, 95);
+}
+
+body {
+    background: url('https://cdn.glitch.com/efa0b5c7-4659-470d-8738-3009da3e53ce%2Fmenu_background.png?1550089121935');
+    margin: 0px;
+    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=3784), auto;
+}
+
+.invisible_hr {
+    border: 1px solid rgba(0, 0, 0, 0);
+}
+
+.div1 {
+    background-color: rgb(34, 34, 34);
+    transition: background-color 0.5s, color 0.5s;
+    border: none;
+}
+
+.div1:hover {
+    background-color: rgb(49, 49, 49);
+    border: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+.locked:active {background-color: rgb(139, 0, 0);}
+
+.alertClose {transition: all 0.1s; margin-bottom: 7px;}
+
+.alertClose:active {color: rgb(190, 190, 255) !important;}
+
+.menuButtons {transition: all 0.2s;}
+
+.menuButtons:hover {padding-left: 50px !important; border-bottom-right-radius: 5px !important; border-top-right-radius: 5px !important;}
+
+.menuButtons:active {padding-left: 50px !important;  border-bottom-right-radius: 5px !important; border-top-right-radius: 5px !important;}
