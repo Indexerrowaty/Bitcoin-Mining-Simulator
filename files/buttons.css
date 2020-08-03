@@ -40,9 +40,9 @@ hr {
 }
 
 body {
-    background: url('https://cdn.glitch.com/efa0b5c7-4659-470d-8738-3009da3e53ce%2Fmenu_background.png?1550089121935');
+    background: url('img/menu_background.png');
     margin: 0px;
-    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=3784), auto;
+    cursor: url('img/cursor.ani'), auto;
 }
 
 .invisible_hr {
