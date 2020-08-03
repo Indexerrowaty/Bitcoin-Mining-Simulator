@@ -1,6 +1,6 @@
 # Bitcoin Mining Simulator
 Our old game that we abandoned because it had trashy code.<br>
-We also made a way better game called "[Money Clicker](https://money-clicker.glitch.me)".
+We also made a way better game called "[Money Clicker](https://moneyclicker.indexed.pl)".
 
 The last thing we plan to do before archiving this repository is to translate the game to English language so that people which can't speak Polish could check out one of our oldest projects.
 
