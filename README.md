@@ -2,7 +2,7 @@
 Our old game that we abandoned because it had trashy code.<br>
 We also made a way better game called "[Money Clicker](https://moneyclicker.indexed.pl)".<br>
 You can continue development of this game if you want to.<br>
-It's released on WTFPL license so you can do with this project whatever you want.
+It's released on WTFPL license so you can do whatever you want with this project.
 
 <hr>
 
