@@ -1,7 +1,7 @@
 # Bitcoin Mining Simulator
 Our old game that we abandoned because it had trashy code.<br>
 We also made a way better game called "[Money Clicker](https://moneyclicker.indexed.pl)".
-
+<hr>
 Last updates we plan to do before archiving Bitcoin Mining Simulator:
 * [x] Fix Fonts
 * [ ] Add English Translation
