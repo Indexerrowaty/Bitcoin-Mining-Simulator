@@ -9,7 +9,7 @@ It's released on WTFPL license so you can do whatever you want with this project
 Last updates we plan to do before archiving Bitcoin Mining Simulator:
 * [x] Fix Fonts
 * [x] Make this game playable on mobile devices (meta viewport)
-* [ ] Add English Translation
+* [x] Add English Translation
 
 ## Useful links
 * [Play the game](https://indexed.pl/Bitcoin-Mining-Simulator/)
