@@ -24,4 +24,4 @@ The last thing we plan to do before archiving this repository is to translate th
 
 #### Store
 ![Store](https://media.discordapp.net/attachments/653672198736969739/739871622806241361/unknown-kopia_2.png)<br>
-<sub><sup>Probably the most uglyiest store in the world.</sub></sup>
+<sub><sup>Probably the most ugly store in the world.</sub></sup>
