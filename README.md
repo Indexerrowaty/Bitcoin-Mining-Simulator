@@ -11,6 +11,10 @@ Last updates we plan to do before archiving Bitcoin Mining Simulator:
 * [x] Make this game playable on mobile devices (meta viewport)
 * [x] Add English Translation
 
+<hr>
+
+Bitcoin Mining Simulator is now officially dead.
+
 ## Useful links
 * [Play the game](https://indexed.pl/Bitcoin-Mining-Simulator/)
 * [Play way better game "Money Clicker"](https://moneyclicker.indexed.pl)
