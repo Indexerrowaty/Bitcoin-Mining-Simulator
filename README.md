@@ -1,6 +1,7 @@
 # Bitcoin Mining Simulator
 Our old game that we abandoned because it had trashy code.<br>
-We also made a way better game called "[Money Clicker](https://moneyclicker.indexed.pl)".
+We also made a way better game called "[Money Clicker](https://moneyclicker.indexed.pl)".<br>
+You can continue development of this game if you want to. It's released on WTFPL license so you can do with this project whatever you want.
 
 <hr>
 
