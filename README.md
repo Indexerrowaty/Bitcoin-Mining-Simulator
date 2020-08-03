@@ -10,12 +10,14 @@ The last thing we plan to do before archiving this repository is to translate th
 
 ## Some screenshots of BTC Mining Sim
 
+#### Main menu
 ![Main menu](https://cdn.discordapp.com/attachments/653672198736969739/739871623561347112/unknown.png)<br>
-BTC Mining Sim's Main Menu
-<hr>
+<sub><sup>BTC Mining Sim's Main Menu</sub></sup>
 
+#### Gameplay
 ![Gameplay](https://media.discordapp.net/attachments/653672198736969739/739871622764298401/unknown-kopia.png)<br>
-Idk how to call it but it's the section where you can check how much money you have.
+<sub><sup>Idk how to call it but it's the section where you can check how much money you have.</sub></sup>
 
+#### Store
 ![Store](https://media.discordapp.net/attachments/653672198736969739/739871622806241361/unknown-kopia_2.png)<br>
-Store
+<sub><sup>Probably the most uglyiest store in the world.</sub></sup>
