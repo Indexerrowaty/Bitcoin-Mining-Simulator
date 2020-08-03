@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Bitcoin Mining Simulator</title>
-    <link id="favicon" rel="icon" href="https://cdn.glitch.com/efa0b5c7-4659-470d-8738-3009da3e53ce%2Flogo_2.png?1550089119818">
+    <link id="favicon" rel="icon" href="../files/img/logo.png">
     <link rel="stylesheet" href="../files/buttons.css" type="text/css">
     <link rel="stylesheet" href="../files/fonts.css" type="text/css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,7 +12,7 @@
 
 	<!--Menu główne-->
 	<div id="Menu2">
-			<img style="margin-left: 20px" src="https://cdn.glitch.com/efa0b5c7-4659-470d-8738-3009da3e53ce%2FBTC%20mining%20sim.png?1550089119444">
+			<img style="margin-left: 20px" src="../files/img/full_logo.png">
 			<div id="Menu">
 			<button onclick="game()" style="border-bottom-left-radius: 0px !important; border-top-left-radius: 0px !important; display: block; margin-top: 5px; margin-bottom: 5px;" class="button menuButtons">Rozpocznij nową grę!</button>
 			<button style="border-bottom-left-radius: 0px !important; border-top-left-radius: 0px !important; display: block; margin-top: 10px; margin-bottom: 5px;" onclick="showNote()" class="locked button menuButtons">Kontynuuj grę</button>
@@ -30,7 +30,7 @@
 	<div style="display: none;" id="topbar" class="div1">
 	<hr class="invisible_hr">
 	<center>
-	<img src="https://cdn.glitch.com/efa0b5c7-4659-470d-8738-3009da3e53ce%2FBTC%20mining%20sim.png?1550089119444">
+	<img src="../files/img/full_logo.png">
 	</center>
 	<hr class="invisible_hr">
 	<center>
@@ -77,7 +77,7 @@ var mpc = 1;
 var moneyPerSecond = 0;
 var clicks = 0;
 var clickUpgradeCost = 100;
-var coinSound = new Audio('https://cdn.glitch.com/efa0b5c7-4659-470d-8738-3009da3e53ce%2Fcoin-drop-4.mp3?1550089315715');
+var coinSound = new Audio('../files/audio/click.mp3');
   	parseFloat(Math.round(BTC * 100) / 100).toFixed(8);
 	parseFloat(Math.round(moneyPerSecond * 100) / 100).toFixed(8);
 
@@ -176,7 +176,7 @@ function showShop(){
 	document.getElementById("background").style.background="#d63031";
 	document.getElementById("topbar").style.display="none";
 	document.title = "Bitcoin Mining Simulator - Sklep";
-	document.getElementById('favicon').href = "https://cdn.glitch.com/efa0b5c7-4659-470d-8738-3009da3e53ce%2Fshop.png?1550089120225";
+	document.getElementById('favicon').href = "../files/img/shop.png";
 }
 
 function toggleFullScreen() {
