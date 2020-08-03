@@ -9,6 +9,7 @@ The last thing we plan to do before archiving this repository is to translate th
 * [Play way better game "Money Clicker"](https://moneyclicker.indexed.pl)
 
 ## Some screenshots of BTC Mining Sim
+For people that would like to check how it looked like rather than play it (which is a wise decision because this game is trash).
 
 #### Main menu
 ![Main menu](https://cdn.discordapp.com/attachments/653672198736969739/739871623561347112/unknown.png)<br>
