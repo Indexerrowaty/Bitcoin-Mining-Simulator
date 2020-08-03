@@ -4,7 +4,7 @@ We also made a way better game called "[Money Clicker](https://moneyclicker.inde
 
 Last updates we plan to do before archiving Bitcoin Mining Simulator:
 * [x] Fix Fonts
-* [] Add English Translation
+* [ ] Add English Translation
 
 ## Useful links
 * [Play the game](https://indexed.pl/Bitcoin-Mining-Simulator/)
